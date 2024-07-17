@@ -1,0 +1,4 @@
+tasks:
+  - name: Script Task
+    
+    command: echo 'start script'
