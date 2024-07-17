@@ -1,4 +1,4 @@
 tasks:
-  - name: Script Task
+  - name: aws-cli
     
     command: echo 'start script'
